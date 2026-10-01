@@ -7,11 +7,11 @@ Aim:
 
 The aim of this project is to automatically collect the latest news, summarize important information using AI, and convert it into a podcast-style audio format.
 
-Problem Statement
+Problem Statement:
 
 People often do not have enough time to read lengthy news articles. Manually collecting, summarizing, and converting news into audio takes time. This project automates the process of creating a short and informative news podcast.
 
-Technologies Used
+Technologies Used:
 
 News API / Web Sources
 
@@ -29,8 +29,7 @@ Text-to-Speech (TTS)
 
 Podcast / Audio Output
 
-
-Workflow
+Workflow:
 
 News Sources
 ↓
@@ -48,11 +47,9 @@ Text-to-Speech
 ↓
 News Podcast
 
-How It Works
+How It Works:
 
 1. News sources provide the latest news articles.
-
-
 2. n8n collects and manages the news data automatically.
 3. Python cleans and processes the collected news.
 4. AI Agent analyzes the news and identifies important information.
@@ -71,25 +68,18 @@ Generated Podcast Script
 News:
 "Today’s technology news highlights a new innovation designed to improve communication and connectivity. The technology aims to provide faster and more efficient communication for users."
 
-Final Output
+Final Output:
 
 🎙️ AI-generated News Podcast Audio
 
-Benefits
+Benefits:
 
 Saves time in reading lengthy news
-
 Automatically summarizes important news
-
 Converts text into audio
-
 Provides quick and easy news access
-
 Reduces manual work
-
 Creates a reusable automated podcast
-
-
 Future Improvements
 
 Support multiple news sources
