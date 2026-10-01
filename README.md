@@ -1,6 +1,5 @@
 News Podcast Generator
-Aim
-The aim of this project is to automatically collect the latest news, summarize important information using AI, and convert it into a podcast-style audio format.
+Aim:The aim of this project is to automatically collect the latest news, summarize important information using AI, and convert it into a podcast-style audio format.
 Problem Statement
 People often do not have enough time to read lengthy news articles. Manually collecting, summarizing, and converting news into audio takes time. This project automates the process of creating a short and informative news podcast.
 Technologies Used
