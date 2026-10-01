@@ -34,24 +34,32 @@ Workflow:
 News Sources
 
 ↓
+
 n8n
 
 ↓
+
 Python
 
 ↓
+
 AI Agent
 
 ↓
+
 Qwen Cloud Chat Model
 
 ↓
+
+
 JavaScript
 
 ↓
+
 Text-to-Speech
 
 ↓
+
 News Podcast
 
 How It Works:
