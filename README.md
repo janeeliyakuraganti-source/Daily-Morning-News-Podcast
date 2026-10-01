@@ -3,7 +3,7 @@
 
 News Podcast Generator
 
-Aim
+Aim:
 
 The aim of this project is to automatically collect the latest news, summarize important information using AI, and convert it into a podcast-style audio format.
 
@@ -54,35 +54,18 @@ How It Works
 
 
 2. n8n collects and manages the news data automatically.
-
-
 3. Python cleans and processes the collected news.
-
-
 4. AI Agent analyzes the news and identifies important information.
-
-
 5. Qwen Cloud Chat Model summarizes the news in simple and understandable language.
-
-
 6. JavaScript formats the generated news script.
-
-
 7. Text-to-Speech converts the script into human-readable audio.
-
-
 8. The final audio output is generated as a news podcast.
 
+Example:
 
-
-Example
-
-News Article
+News Article:
 
 > A new technology has been introduced to improve communication and connectivity.
-
-
-
 Generated Podcast Script
 
 News:
