@@ -1,17 +1,17 @@
 <img width="937" height="177" alt="crt pic" src="https://github.com/user-attachments/assets/2a02740c-f8c5-4419-830f-f89b2c0283d8" />
 
 
-News Podcast Generator
+NEWS PODCAST GENERATOR
 
-Aim:
+AIM:
 
 The aim of this project is to automatically collect the latest news, summarize important information using AI, and convert it into a podcast-style audio format.
 
-Problem Statement:
+PROBLEM STATEMENT:
 
 People often do not have enough time to read lengthy news articles. Manually collecting, summarizing, and converting news into audio takes time. This project automates the process of creating a short and informative news podcast.
 
-Technologies Used:
+TECHNOLOGIES USED:
 
 News API / Web Sources
 
@@ -29,7 +29,7 @@ Text-to-Speech (TTS)
 
 Podcast / Audio Output
 
-Workflow:
+WORKFLOW:
 
 News Sources
 
@@ -62,7 +62,7 @@ Text-to-Speech
 
 News Podcast
 
-How It Works:
+HOW IT WORKS:
 
 1. News sources provide the latest news articles.
 2. n8n collects and manages the news data automatically.
@@ -75,7 +75,7 @@ How It Works:
 
 Example:
 
-News Article:
+NEWS ARTICLE:
 
 > A new technology has been introduced to improve communication and connectivity.
 Generated Podcast Script
@@ -83,11 +83,11 @@ Generated Podcast Script
 News:
 "Today’s technology news highlights a new innovation designed to improve communication and connectivity. The technology aims to provide faster and more efficient communication for users."
 
-Final Output:
+FINAL OUTPUT:
 
 🎙️ AI-generated News Podcast Audio
 
-Benefits:
+BENEFITS:
 
 Saves time in reading lengthy news
 Automatically summarizes important news
